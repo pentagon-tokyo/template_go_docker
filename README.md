@@ -11,7 +11,7 @@ docker-compose exec app go run main.go
 
 https://github.com/cespare/reflex  
 をインストールしているので、ホットリロードにも対応できるはず（動作未確認）  
-もしできなかったらAlphineではないOSをつかってbash等から起動するのがいいでしょう
+もしできなかったらalpineではないOSをつかってbash等から起動するのがいいでしょう
 
 
 
